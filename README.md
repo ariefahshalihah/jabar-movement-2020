@@ -1,2 +1,2 @@
 # jabar-movement-2020
-Pergerakan masyarakat jabar 2020
+Movement Range Maps in Jawa Barat
